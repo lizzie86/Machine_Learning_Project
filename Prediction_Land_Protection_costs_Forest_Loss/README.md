@@ -7,7 +7,7 @@ This project is a geospatial analysis of predicting land acquisition cost and fo
 ## Data
 - The parcel dataset, including the last sale data and the parcel ID ('pid'), is an extract from PLACES (the Private-Land Conservation Evidence System).
   https://placeslab.org/places/
-- The underlying vector data, all parcels in Massachusetts that are larger than one hectare (nobs = 220,187), comes from the Standardized Assessor's Parcels provided by MassGIS.
+- The underlying vector data, all parcels in Massachusetts that are larger than one hectare (n = 220,187), comes from the Standardized Assessor's Parcels provided by MassGIS.
   https://www.mass.gov/info-details/massgis-data-property-tax-parcels
 
 ## Contents
