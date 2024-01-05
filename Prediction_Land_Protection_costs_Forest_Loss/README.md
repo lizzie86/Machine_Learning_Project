@@ -31,8 +31,8 @@ The ipynb file contains the following information:
 5. Predicting forest cover change across Massachusetts with the best model we found above
 
 ## Results
-![Screenshot 2024-01-05 at 4 51 00 PM](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/f98f9f9f-9393-4af8-ad72-dd999454c964)
 - Out-of-sample errors of each model
+- ![Screenshot 2024-01-05 at 4 51 00 PM](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/f98f9f9f-9393-4af8-ad72-dd999454c964)
 
 We created maps of predicted values and residuals for the best random forest regression (rf_coords_100: Random Forest with 100 trees ) and the best extremely randomized tree regressor (et_coords_250: randomized trees regressor with 250 estimators). 
 
