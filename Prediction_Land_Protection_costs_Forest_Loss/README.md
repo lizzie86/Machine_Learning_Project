@@ -30,6 +30,16 @@ The ipynb file contains the following information:
 4. Find well-performing models based on out-of-sample error
 5. Predicting forest cover change across Massachusetts with the best model we found above
 
+# Results
+We fou
+![LandCost_et_coords_250_pred](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/42cfdb3e-d4ae-407a-8a35-4244ad7a8553)
+
+![LandCost_et_coords_250_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/eb9da2be-d8fb-4a64-af59-1d4fd69c6ec3)
+
+![LandCost_rf_coords_100_pred](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/29513f69-6263-4531-a007-e1cb479e83bd)
+![LandCost_rf_coords_100_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/be3ba8fc-76fd-4d78-9906-117e5d32bfaa)
+![ForestCover_Change](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/e3082555-84f1-4405-bf97-a46d39fd8683)
+
 
 ## Usage
 
