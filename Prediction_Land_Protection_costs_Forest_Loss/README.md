@@ -30,9 +30,9 @@ The ipynb file contains the following information:
 4. Find well-performing models based on out-of-sample error
 5. Predicting forest cover change across Massachusetts with the best model we found above
 
-# Results
-- Out-of-sample errors of each model
+## Results
 ![Screenshot 2024-01-05 at 4 51 00 PM](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/f98f9f9f-9393-4af8-ad72-dd999454c964)
+- Out-of-sample errors of each model
 
 We created maps of predicted values and residuals for the best random forest regression (rf_coords_100: Random Forest with 100 trees ) and the best extremely randomized tree regressor (et_coords_250: randomized trees regressor with 250 estimators). 
 
@@ -43,6 +43,7 @@ We created maps of predicted values and residuals for the best random forest reg
 ![LandCost_rf_coords_100_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/be3ba8fc-76fd-4d78-9906-117e5d32bfaa)
 
 And predicted the forest loss using the best model (et_coords_250) and created maps of predicted values.
+
 ![ForestCover_Change](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/e3082555-84f1-4405-bf97-a46d39fd8683)
 
 
