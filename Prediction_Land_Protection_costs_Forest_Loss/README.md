@@ -5,7 +5,8 @@
 This project is a geospatial analysis of predicting land acquisition cost and forest change across 177,277 parcels in Massachusetts using various machine learning methods( Linear Regression, Gradient Boosting, Random Forest, Extremely Randomized Trees, K-fold cross-validation, Out-Of-Bag Estimate). The document provides insights on how to prepare the data (pandas, numpy, geopandas), create the maps of predicted values and residuals(matplotlib), and how to build machine learning models with geodataframe (statsmodels and scikit-learn).
 
 ## Data
-- The parcel dataset, including the last sale data and the parcel ID ('pid'), is an extract from PLACES(the Private-Land Conservation Evidence System)(placeslab.org/places).
+- The parcel dataset, including the last sale data and the parcel ID ('pid'), is an extract from PLACES (the Private-Land Conservation Evidence System).
+  https://placeslab.org/places/
 - The underlying vector data, all parcels in Massachusetts that are larger than one hectare (nobs = 220,187), comes from the Standardized Assessor's Parcels provided by MassGIS.
   https://www.mass.gov/info-details/massgis-data-property-tax-parcels
 
