@@ -31,7 +31,9 @@ The ipynb file contains the following information:
 5. Predicting forest cover change across Massachusetts with the best model we found above
 
 # Results
-We fou
+- Out-of-sample errors of each model
+We found out that model rf_coords_100	and et_coords_250
+
 ![LandCost_et_coords_250_pred](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/42cfdb3e-d4ae-407a-8a35-4244ad7a8553)
 
 ![LandCost_et_coords_250_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/eb9da2be-d8fb-4a64-af59-1d4fd69c6ec3)
