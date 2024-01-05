@@ -32,14 +32,17 @@ The ipynb file contains the following information:
 
 # Results
 - Out-of-sample errors of each model
-We found out that model rf_coords_100	and et_coords_250
+![Screenshot 2024-01-05 at 4 51 00 PM](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/f98f9f9f-9393-4af8-ad72-dd999454c964)
+
+We created maps of predicted values and residuals for the best random forest regression (rf_coords_100: Random Forest with 100 trees ) and the best extremely randomized tree regressor (et_coords_250: randomized trees regressor with 250 estimators). 
 
 ![LandCost_et_coords_250_pred](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/42cfdb3e-d4ae-407a-8a35-4244ad7a8553)
-
 ![LandCost_et_coords_250_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/eb9da2be-d8fb-4a64-af59-1d4fd69c6ec3)
 
 ![LandCost_rf_coords_100_pred](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/29513f69-6263-4531-a007-e1cb479e83bd)
 ![LandCost_rf_coords_100_resid](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/be3ba8fc-76fd-4d78-9906-117e5d32bfaa)
+
+And predicted the forest loss using the best model (et_coords_250) and created maps of predicted values.
 ![ForestCover_Change](https://github.com/lizzie86/Machine_Learning_Project/assets/111255164/e3082555-84f1-4405-bf97-a46d39fd8683)
 
 
